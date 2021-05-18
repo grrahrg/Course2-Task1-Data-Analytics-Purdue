@@ -1,2 +1,2 @@
-# Data-Analytics-Purdue
-A repository to keep task work for data analytics coursework (4/5/2021)
+# Course2 Task1 - Data-Analytics-Purdue
+A repository to keep Course2 Task1 work.
